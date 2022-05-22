@@ -27,7 +27,7 @@ cursor.execute("CREATE TABLE IF NOT EXISTS players (name TEXT, title TEXT, ratin
 > 2. Python
 
 ### Youtube Video Link:
-> [Video Link](insert link here)
+> [Video Game Database](https://www.youtube.com/watch?v=2X3JbzV1iIM)
 
 
 # Useful Websites
